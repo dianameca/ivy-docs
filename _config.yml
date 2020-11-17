@@ -3,3 +3,15 @@ email: dianameca@protonmail.com
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
+
+collections:
+  docs:
+    permalink: "/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_exclude: false
+      search_exclude: false
