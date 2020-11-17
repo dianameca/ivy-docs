@@ -1,7 +1,5 @@
 title: "🌿 IVY"
 email: dianameca@protonmail.com
-twitter_username: jekyllrb
-github_username:  jekyll
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
