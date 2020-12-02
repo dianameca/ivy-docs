@@ -6,4 +6,4 @@ permalink: /
 ---
 
 # Ivy Design System
-### Minimalist. Peaceful. Soothing.
+### A quiet, minimalist design system.
